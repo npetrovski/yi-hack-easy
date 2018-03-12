@@ -37,7 +37,7 @@ Customized firmware for Yi Home Camera 720p
  - **ROOT_PASSWORD** - root user password
  - **WIFI_SSID** - SSID of you WiFi network
  - **WIFI_PWD** - password of you WiFI network
- - **DHCP** (yes|no) - you can specify either Static IP address of the cames or set DHCP to 'yes' for dynamic host configuration
+ - **DHCP** (yes|no) - you can specify either Static IP address or set DHCP to 'yes' for dynamic host configuration
  - **HOSTNAME** - network hostname of your camera
  - **IP**, **NETMASK**, **GATEWAY**, **NAMESERVER** - configurations for static IP address. **DHCP** need to be 'off'.
  - **LED_WHEN_READY** - final state of the LED when all camera configurations are set
