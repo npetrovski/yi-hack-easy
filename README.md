@@ -1,3 +1,6 @@
+THIS PROJECT IS OUTDATED AND NOT MAINTAINED ANYMORE
+===============
+
 # yi-hack-easy
 Customized firmware for Yi Home Camera 720p
 
